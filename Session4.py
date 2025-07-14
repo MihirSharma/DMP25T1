@@ -1,0 +1,1 @@
+print(format(9855,'b'))
