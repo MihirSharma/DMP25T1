@@ -1,4 +1,4 @@
-# DMP problem solutions Term 1 BAN
+# DMP HW Exercise Solutions (Term 1 Business Analytics)
 
 ## If you need to submit a solution to the professor
 
