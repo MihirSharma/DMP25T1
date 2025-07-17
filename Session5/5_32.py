@@ -1,6 +1,6 @@
 # Take required inputs
-amount = int(input("Amount to be saved: "))
-rate = int(input("Annual Interest Rate: "))
+amount = float(input("Amount to be saved: "))
+rate = float(input("Annual Interest Rate: "))
 months = int(input("Number of months: "))
 
 # Set variable for loop to check until last month
