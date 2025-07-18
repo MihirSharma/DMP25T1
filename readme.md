@@ -12,3 +12,7 @@
 - Chapter 3: 11, 15, 18, 19, 21, 23,26, 29, 33, 34
 - Chapter 4: 2, 3, 7, 21, 22, 24, 28, 32, 37
 - Chapter 5: 19, 20, 21, 23, 26, 30, 32, 33, 59
+
+# Datewise code
+
+- Some codes from class sessions may also be added with date as filename.
