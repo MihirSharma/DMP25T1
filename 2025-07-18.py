@@ -96,3 +96,18 @@ def addallf (n):
 
 addallf(11)
 addallf(12)
+
+# palindrome using while 
+
+string = input("String")
+reversed = ""
+counter = 0
+end = len(string)
+while counter < end:
+    character = string[counter]
+    reversed = character + reversed
+    counter += 1
+if reversed == string:
+    print (True)
+else:
+    print (False)
