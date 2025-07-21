@@ -38,6 +38,8 @@ while num < 2000:
     num += 1
 print ("\nPrimes between 1000 & 2000: ", primes)
     
+# Quiz
+
 
     
     

@@ -2,7 +2,7 @@ user_ip = int(input("Enter the number of lines : "))
 
 for i in range(user_ip):  # loop from 0 to 6 to print each line
     # print(" "*user_ip + "i+1")
-    space_num = (user_ip-1-i)   # Calculate the number of spaces to be added on either side
+    space_num = (user_ip-i-1)   # Calculate the number of spaces to be added on either side
     num_str = "1"  # string for center 1
     append_str_1 = ""  #  placeholder string variable for left side numbers
     append_str_2 = ""  #  placeholder string variable for right side numbers
